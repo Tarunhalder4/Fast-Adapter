@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LufickFastAdapter</string>
+
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="open_source">Open Source</string>
+
+    <string name="simple_list_activity">Simple List Activity</string>
+
+    <string name="title_simple_image_activity">Simple Image Activity</string>
+    <string name="title_simple_list_activity">Simple List Activity</string>
+    <string name="title_multiple_select_list_activity">Multiple select Activity</string>
+    <string name="title_simple_expandable_list_activity">Simple Expendable Activity</string>
+    <string name="title_radio_button_list_Activity">Radio button List Activity</string>
+    <string name="title_check_box_button_list_Activity">Check Box button List Activity</string>
+    <string name="title_Sticky_Header_list_Activity">Sticky Header List Activity</string>
+    <string name="title_sticky_header_expendable_list_activity">Sticky Header Expendable List Activity</string>
+    <string name="title_swipe_list_activity">Swipe List Activity</string>
+    <string name="title_sort_list_activity">Sort List Activity</string>
+    <string name="title_end_less_list_activity">End Less List Activity</string>
+    <string name="title_icon_grid_list_activity">Icon Grid Activity</string>
+    <string name="title_expandable_grid_list_activity">Expandable Grid Activity</string>
+
+
+    <string name="des_simple_image_activity">View Click Listener</string>
+    <string name="des_simple_list_activity">Filter,Drag and Drop</string>
+    <string name="des_multiple_select_list_activity">MultiSelect item</string>
+    <string name="des_simple_expandable_list_activity">Expandable and Select</string>
+    <string name="des_radio_button_list_Activity">Use FastAdapters internal state with a RadioButton</string>
+    <string name="des_check_box_button_list_Activity">Use FastAdapters internal state with a CheckBox</string>
+    <string name="des_Sticky_Header_list_Activity">StickyHeader, Select</string>
+    <string name="des_sticky_header_expendable_list_activity">Header, StickyHeader, Expandable, CAB, MultiSelect</string>
+    <string name="des_swipe_list_activity">Swipe, leave-behinds and actions</string>
+    <string name="des_sort_list_activity">Simply sort your items by providing a Comparator</string>
+    <string name="des_end_less_list_activity">EndLess Scroll, Progress</string>
+    <string name="des_icon_grid_list_activity">Grid and Expandable</string>
+    <string name="des_expandable_grid_list_activity">Expandable Grid</string>
+
+
+    <string name="undo">undo</string>
+    <string name="todo">TODO</string>
+
+
+</resources>

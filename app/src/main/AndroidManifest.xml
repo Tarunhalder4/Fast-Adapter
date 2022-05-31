@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lufickfastadapter">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LufickFastAdapter">
+        <activity
+            android:name=".iconGrid.ExpandableGridActivity"
+            android:exported="false" />
+        <activity
+            android:name=".grid.GridActivity"
+            android:exported="false" />
+        <activity
+            android:name=".drawer.DrawerActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".iconGrid.IconGridActivity"
+            android:exported="false" />
+        <activity
+            android:name=".multiSelectItem.MultiSelectActivity"
+            android:exported="false" />
+        <activity
+            android:name=".endLess.EndLessActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sortSample.SortActivity"
+            android:exported="false" />
+        <activity
+            android:name=".swipeSample.SwipeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".stickyHeaderSample.StickyHeaderSampleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.CheckBoxActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.RadioButtonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.ExpandableSampleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SimpleImageListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SimpleListActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
